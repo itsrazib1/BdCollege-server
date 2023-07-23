@@ -1,2 +1,2 @@
-# iCollege-Server
+# BDCollege-Server
 # BdCollege-server
